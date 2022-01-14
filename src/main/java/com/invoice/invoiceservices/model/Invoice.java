@@ -1,8 +1,6 @@
 package com.invoice.invoiceservices.model;
 
 import java.util.Date;
-
-import javax.annotation.sql.DataSourceDefinition;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
